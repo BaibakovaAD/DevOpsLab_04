@@ -29,3 +29,15 @@ valid_lft forever preferred_lft forever
 
 <img width="955" height="1016" alt="image" src="https://github.com/user-attachments/assets/7a753e49-32f8-47ca-ab59-54e776c7c294" />
 
+Оформили подключение по ключу из первой машины к клону
+
+<img width="880" height="729" alt="image" src="https://github.com/user-attachments/assets/0f503739-df21-400c-a643-44228e93445f" />
+
+Установили sudo apt install ansible и проверили версию
+
+<img width="813" height="316" alt="image" src="https://github.com/user-attachments/assets/2b848c5b-70be-41f8-ae61-978d791e710b" />
+
+Оформили заготовки под плейбук и инвентарь
+
+<img width="633" height="117" alt="image" src="https://github.com/user-attachments/assets/caeae387-35ec-4f90-bc75-f4ad9421628f" />
+<img width="600" height="159" alt="image" src="https://github.com/user-attachments/assets/376542ed-79f5-4dcb-8825-ca75818aec1e" />
