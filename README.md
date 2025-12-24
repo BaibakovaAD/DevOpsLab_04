@@ -41,3 +41,14 @@ valid_lft forever preferred_lft forever
 
 <img width="633" height="117" alt="image" src="https://github.com/user-attachments/assets/caeae387-35ec-4f90-bc75-f4ad9421628f" />
 <img width="600" height="159" alt="image" src="https://github.com/user-attachments/assets/376542ed-79f5-4dcb-8825-ca75818aec1e" />
+
+Тестовый прогон показал работоспособность скрипта
+
+<img width="822" height="318" alt="image" src="https://github.com/user-attachments/assets/bdb19913-dc5a-4fc8-883c-1f42ba1f17f4" />
+
+После чего произвели уже боевой прогон плейбука
+
+<img width="822" height="405" alt="image" src="https://github.com/user-attachments/assets/e9bb970a-a168-424b-8b4a-9c4d537c5049" />
+
+Далее мы захотели создать веб страницу, которая будет выводить "Hello from Ansible!". Индексный файл в формате html прописали на первой виртуальной машине и дописали обращение к файлу в плейбук. И после дополнительного боевого прогона плейбука смогли вывести веб страницу при обращении к ip адресу 127.0.0.1
+<img width="1280" height="362" alt="image" src="https://github.com/user-attachments/assets/971c3106-a52f-4dd0-a982-b78dc5f10979" />
