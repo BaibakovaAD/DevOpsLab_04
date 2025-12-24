@@ -1,9 +1,9 @@
 # DevOpsLab_04
-Создали клон предыдущей виртуальной машины
+Для начала работы, создали клон предыдущей виртуальной машины
 
 <img width="1003" height="608" alt="image" src="https://github.com/user-attachments/assets/83254cbf-1b12-4848-83b3-bf41dbd636b7" />
 
-Настройка общей сети и проброс портов
+Необходимо было организовать проброс портов и настроить общую сеть на сеть NAT
 
 <img width="1920" height="1017" alt="image" src="https://github.com/user-attachments/assets/347a4b7c-dced-4eac-a3ae-24da672e5f36" />
 
