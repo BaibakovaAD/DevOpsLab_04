@@ -37,7 +37,7 @@ valid_lft forever preferred_lft forever
 
 <img width="813" height="316" alt="image" src="https://github.com/user-attachments/assets/2b848c5b-70be-41f8-ae61-978d791e710b" />
 
-Оформили заготовки под плейбук и инвентарь
+Оформили заготовки под плейбук и инвентарь. Далее заполнили плэйбук (я забыла сделать скриншот)
 
 <img width="633" height="117" alt="image" src="https://github.com/user-attachments/assets/caeae387-35ec-4f90-bc75-f4ad9421628f" />
 <img width="600" height="159" alt="image" src="https://github.com/user-attachments/assets/376542ed-79f5-4dcb-8825-ca75818aec1e" />
