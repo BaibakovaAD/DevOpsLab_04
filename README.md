@@ -1,4 +1,4 @@
-# DevOpsLab_04
+# DevOpsLab_04 Ansible basis
 Для начала работы, создали клон предыдущей виртуальной машины
 
 <img width="1003" height="608" alt="image" src="https://github.com/user-attachments/assets/83254cbf-1b12-4848-83b3-bf41dbd636b7" />
